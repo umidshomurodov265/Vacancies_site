@@ -3,6 +3,7 @@
 1) cd client
 2) npm install
 3) npm run serve
+
 ---BACKEND
 1) cd server
 2) nmp install
